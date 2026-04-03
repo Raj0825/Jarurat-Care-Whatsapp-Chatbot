@@ -160,6 +160,3 @@ whatsapp-chatbot/
 
 ---
 
-## 👨‍💻 Author
-
-Built with ❤️ for the Jarurat Care internship assignment.
