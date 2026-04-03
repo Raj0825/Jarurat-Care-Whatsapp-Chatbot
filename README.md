@@ -26,7 +26,7 @@ Built as part of the Jarurat Care internship selection assignment.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/whatsapp-chatbot.git
+git clone https://github.com/Raj0825/Jarurat-Care-Whatsapp-Chatbot.git
 cd whatsapp-chatbot
 
 # 2. Build and run
